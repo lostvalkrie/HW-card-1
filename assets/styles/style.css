@@ -136,7 +136,7 @@ body {
   justify-content: space-between;
 }
 
-.info-list li p:first-child {
+.info-label {
   color: var(--color-gray);
   padding-bottom: 0.7rem;
 }
